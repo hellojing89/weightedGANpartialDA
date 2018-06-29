@@ -1,0 +1,13 @@
+net: "/home/jz960/caffeCodes/partialDA_CVPR18release/caffe/models/partialDAoffice31/dslr_to_amazonC10/protos/train_val_dc.prototxt"
+test_iter: 958
+test_interval: 1000
+base_lr: 0.0003
+momentum: 0.9
+lr_policy: "inv"
+gamma: 0.001
+power: 0.75
+display: 100
+max_iter: 50000
+snapshot: 10000
+snapshot_prefix: "/home/jz960/caffeCodes/partialDA_CVPR18release/caffe/models/partialDAoffice31/dslr_to_amazonC10/snapshots_dc/train"
+solver_mode: GPU
