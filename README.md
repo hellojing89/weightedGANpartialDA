@@ -10,8 +10,8 @@ We provide the example proto files, pre-trained models, and running script in 'm
 The example pre-trained 'dslr' source model can be downloaded from:
 https://drive.google.com/open?id=1MYfLAg9fDvKaXeJnL4WxWisE88U3E8QR
 
-
-usage:
+Usage
+---------------
 
 Put the pre-trained source model into the 
 'weightedGANpartialDA/models/partialDAoffice31/dslr_to_amazonC10/snapshots_dc' folder, 
