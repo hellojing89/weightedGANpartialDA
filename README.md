@@ -23,10 +23,10 @@ from the caffe root.
 Citation
 ---------------
 
-@InProceedings{Zhang_2018_CVPR,
-author = {Zhang, Jing and Ding, Zewei and Li, Wanqing and Ogunbona, Philip},
-title = {Importance Weighted Adversarial Nets for Partial Domain Adaptation},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2018}
-}
+    @inproceedings{Zhang_2018_CVPR,
+      author    = {Zhang, Jing and Ding, Zewei and Li, Wanqing and Ogunbona, Philip},
+      title     = {Importance Weighted Adversarial Nets for Partial Domain Adaptation},
+      booktitle = {Proceedings of The IEEE Conference on Computer Vision and Pattern Recognition},
+      month     = {June},
+      year      = {2018},
+    }
