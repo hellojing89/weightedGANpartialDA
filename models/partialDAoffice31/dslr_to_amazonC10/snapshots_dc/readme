@@ -2,7 +2,7 @@
 
 This is a caffe repository for "Importance Weighted Adversarial Nets for Partial Domain Adaptation".
 
-The source models are pre-trained using bvlc_alexnet.
+The source models are finetuned based on bvlc_alexnet with an additional bottleneck layer (256 dimension) between fc7 and fc8.
 
 When the source model is pre-trained, it is stored into one file with two duplications. The first represents the source model which remains fixed during adaptation, the second represents the target model (initialized by source model parameters) which will be trained for partial domain adaptation.
 
