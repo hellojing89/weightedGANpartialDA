@@ -18,3 +18,15 @@ Put the pre-trained source model into the
 and run the script 
 'weightedGANpartialDA/models/partialDAoffice31/dslr_to_amazonC10/scripts/train_dc.sh' 
 from the caffe root.
+
+
+Citation
+---------------
+
+@InProceedings{Zhang_2018_CVPR,
+author = {Zhang, Jing and Ding, Zewei and Li, Wanqing and Ogunbona, Philip},
+title = {Importance Weighted Adversarial Nets for Partial Domain Adaptation},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2018}
+}
